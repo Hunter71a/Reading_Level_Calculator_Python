@@ -1,7 +1,3 @@
-#  Carl Olson   2019.10.08
-#  CSCI-1511    Python
-#  Lab 7: WordFrequency Enhanced With Reading Level Calculation of the text
-
 # This program practices file i/o, error handling, and functions
 # Receives a .txt file as input, processes the text eliminating punctuation
 # and eventually sorting the words into a dictionary listing the number of occurrences
